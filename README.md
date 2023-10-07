@@ -7,5 +7,5 @@
 
 ./vendor/bin/sail npm i
 
-./vendor/bin/sail npm run dev para ficar ouvindo as alterações no front-end
+./vendor/bin/sail npm run dev (Fica ouvindo as alterações no front-end)
 ```
